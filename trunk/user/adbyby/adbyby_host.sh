@@ -3,6 +3,6 @@
 #yhost
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
 #tvbox
-https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
+https://raw.fastgit.org/pesthog/mao/main/tvbox
 #1024
-https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+https://raw.fastgit.org/pesthog/mao/main/1024host
