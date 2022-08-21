@@ -4,3 +4,5 @@
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
 #tvbox
 https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt
+#1024
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
